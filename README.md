@@ -1,6 +1,6 @@
 # example-test-repo
 a repo to demonstrate basic git workflow
 ## Section 1
-Lorem ipsum,  
-dolor sic amet
-hi its hassan
+Hi its Hassan,  
+first time on git  
+Learning something new
