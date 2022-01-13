@@ -3,5 +3,5 @@ a repo to demonstrate basic git workflow
 ## Section 1
 Hi its Hassan,  
 first time on git  
-Learning something new
+Learning something new  
 coding is hard
