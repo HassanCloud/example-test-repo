@@ -4,4 +4,4 @@ a repo to demonstrate basic git workflow
 Hi its Hassan,  
 first time on git  
 Learning something new  
-coding is hard
+coding is hard  
